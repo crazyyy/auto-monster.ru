@@ -1,0 +1,2 @@
+
+$('input[name="tel"]').inputmask("+7(999) 999-99-99");$('input[name="mileage"]').inputmask("999 999 999",{numericInput:true});$('input[name="appetite"]').inputmask("999 999 999",{numericInput:true});$('.menu-main.sticky').sticky({topSpacing:0});$('.callback-wrapper.sticky').sticky({topSpacing:70});$('input[name="tel"]').inputmask("+7(999) 999-99-99");$('input[name="mileage"]').inputmask("999 999 999",{numericInput:true});$('input[name="owners"]').inputmask("99",{numericInput:true});$('input[name="appetite"]').inputmask("999 999 999",{numericInput:true});
